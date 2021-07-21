@@ -1,0 +1,20 @@
+#mapid { 
+  height: 400px;
+  width: 700px;
+  margin: auto;
+  border-radius: 5px;
+  box-shadow: 1px 1px 6px 2px rgba(0, 0, 0, 0.2);
+}
+
+#stations{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+.block-station{
+  margin:20px;
+  padding: 10px;
+  height: 250px;
+  width: 250px;
+  box-shadow: 1px 1px 5px 2px rgba(0, 0, 0, 0.2);
+}
